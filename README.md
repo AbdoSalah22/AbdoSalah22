@@ -11,27 +11,27 @@
 
 <h3 align="center">🌐 Connect with me 🌐</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/amsalahmaatok/" target="blank">
+  <a href="https://www.linkedin.com/in/amsalahmaatok/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amsalahmaatok/" height="30" width="40" />
   </a>
   
-  <a href="https://fb.com/https://www.facebook.com/abdelrahmanmaatok" target="blank">
+  <a href="https://www.facebook.com/abdelrahmanmaatok" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdelrahmanmaatok" height="30" width="40" />
   </a>
   
-  <a href="https://instagram.com/https://www.instagram.com/_abdosalahh/" target="blank">
+  <a href="https://www.instagram.com/_abdosalahh/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abdosalahh/" height="30" width="40" />
   </a>
 
-  <a href="https://twitter.com/_abdosalahh" target="blank">
+  <a href="https://x.com/_abdosalahh" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="_abdosalahh" height="40" width="40" />
   </a>
   
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@abdosalah22" target="blank">
+  <a href="https://www.youtube.com/@abdosalah22" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abdosalah22" height="30" width="40" />
   </a>
   
-  <a href="https://www.leetcode.com/https://leetcode.com/u/abdosalah_/" target="blank">
+  <a href="https://leetcode.com/u/abdosalah_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdosalah_/" height="30" width="40" />
   </a>
   
