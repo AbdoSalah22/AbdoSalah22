@@ -3,8 +3,6 @@
 # 🌟 Hi, I'm Abdelrahman 🌟
 ### 🚀 Computer Engineer & Lifelong Learner 🚀
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=abdosalah22&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/abdosalah22)
 
 </div>
@@ -12,35 +10,28 @@
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amsalahmaatok/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amsalahmaatok/" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/amsalahmaatok/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
   </a>
-  
-  <a href="https://www.facebook.com/abdelrahmanmaatok" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdelrahmanmaatok" height="30" width="40" />
+  <a href="https://www.facebook.com/abdelrahmanmaatok" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" />
   </a>
-  
-  <a href="https://www.instagram.com/_abdosalahh/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abdosalahh/" height="30" width="40" />
+  <a href="https://www.instagram.com/_abdosalahh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
   </a>
-
-  <a href="https://x.com/_abdosalahh" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="_abdosalahh" height="40" width="40" />
+  <a href="https://x.com/_abdosalahh" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="X (Twitter)" height="40" />
   </a>
-  
-  <a href="https://www.youtube.com/@abdosalah22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abdosalah22" height="30" width="40" />
+  <a href="https://www.youtube.com/@abdosalah22" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" />
   </a>
-  
-  <a href="https://leetcode.com/u/abdosalah_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdosalah_/" height="30" width="40" />
+  <a href="https://leetcode.com/u/abdosalah_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" />
   </a>
-  
 </p>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
+---
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
 
